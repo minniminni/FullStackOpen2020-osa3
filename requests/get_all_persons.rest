@@ -1,0 +1,7 @@
+get http://localhost:3001/api/persons/18
+Content-Type: application/json
+
+{
+    "name": "Manda Mors",
+    "number": "020202"
+}
