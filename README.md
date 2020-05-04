@@ -1,1 +1,1 @@
-https://phonebook-part3-app.herokuapp.com/api/persons
+https://phonebook-part3-app.herokuapp.com/
