@@ -1,0 +1,3 @@
+[submodule "osa3"]
+	path = osa3
+	url = https://github.com/minniminni/FullStackOpen-2020
